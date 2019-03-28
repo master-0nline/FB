@@ -1,4 +1,4 @@
 <!-- TIDAK DI JUAL -->
 <?php
-$emailku = 'fadlanseptian23@gmail.com';
+$emailku = 'banjol1871@gmail.com';
 ?>
